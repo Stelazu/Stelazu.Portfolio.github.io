@@ -1,2 +1,2 @@
 # Stelazu.Portfolio.github.io
-Portofolio (Temporary)
+Portfolio (Temporary)
